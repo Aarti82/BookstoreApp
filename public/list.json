@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 0,
+        "category": "free",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 2,
+        "name": "Comedy book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 0,
+        "category": "free",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 3,
+        "name": "Love book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 900,
+        "category": "Love",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 4,
+        "name": "Food book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 260,
+        "category": "free",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 5,
+        "name": "Adventure book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 50,
+        "category": "Love",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 6,
+        "name": "Bl book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 100,
+        "category": "Love",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 7,
+        "name": "Sports book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 130,
+        "category": "Sports",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 8,
+        "name": "Horror book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 500,
+        "category": "Horror",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 9,
+        "name": "Weather book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 300,
+        "category": "Weather",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 10,
+        "name": "Picture book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 70,
+        "category": "Pics",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 11,
+        "name": "Animals book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 800,
+        "category": "Animals",
+        "image": "/assets/banner.png"
+    },
+    {
+        "id": 12,
+        "name": "Musics book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. ",
+        "price": 400,
+        "category": "Music",
+        "image": "/assets/banner.png"
+    }
+]
